@@ -1,0 +1,257 @@
+body,html{
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	margin-top: 35px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+	
+header{
+	width: 100%;
+	height: 120px;
+	background-color: #282828;
+}
+
+.header1{
+	position: absolute;
+	padding: 3px;
+	float: right;
+	margin-left: 2%;
+	margin-top: 0px;
+	font-family: 'Alfa Slab One';
+	color: #39ca74;
+	text-align: center;
+}
+
+span{
+	color: #ffffff;
+}
+
+ul{
+	width: auto;
+	float: left;
+	margin-top: 8px;
+}
+
+li{
+	display: inline-block;
+	padding: 35px 155px;
+}
+
+a{
+	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2vw;
+}
+
+a:hover{
+	color: #F0c330;
+	transition: 0.5s;
+}
+
+img{
+	width: 100%;
+	margin-top: -16px;
+}
+
+.body1 {
+	background-image: url('background2.jpg')
+}
+
+.timeline{
+	border: 5px solid black;
+	border-top: 5px solid black;
+	height: 470px;
+	width: 490px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+
+.header2{
+	border: 1px solid black;
+	width: 59%;
+	display: block;
+	background: #282828;
+	padding-left: 2%;
+	margin-top: 1%;
+	text-align: left;
+	color: #ffffff;
+	font-family: 'Quicksand';
+	font-size: 30px;
+	border-right: 8px solid white;
+	padding-bottom: 15px;
+}
+
+.block2{
+	float: right;
+	border: 1px solid black;
+	width: 90%;
+	display: block;
+	background: #282828;
+	padding-left: 2%;
+	text-align: left;
+	color: #ffffff;
+	font-family: 'Quicksand';
+	font-size: 18px;
+	border-left: 8px solid white;
+	margin-top: 5%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.block3{
+	float: right;
+	border: 1px solid black;
+	width: 44%;
+	display: block;
+	background: #282828;
+	padding-left: 2%;
+	text-align: left;
+	color: #ffffff;
+	font-family: 'Quicksand';
+	font-size: 18px;
+	border-left: 8px solid white;
+	margin-top: 2.4%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+	
+.block4{
+	float: right;
+	border: 1px solid black;
+	width: 44%;
+	display: block;
+	background: #282828;
+	padding-left: 2%;
+	text-align: left;
+	color: #ffffff;
+	font-family: 'Quicksand';
+	font-size: 18px;
+	border-left: 8px solid white;
+	margin-top: 2.4%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.types{
+	float: right;
+	border: 1px solid black;
+	width: 30%;
+	display: block;
+	background: #282828;
+	padding-left: 2%;
+	text-align: center;
+	color: #39ca74;
+	font-family: 'Alfa Slab One';
+	font-size: 30px;
+	border-left: 8px solid white;
+	margin-top: 35%;
+	padding-right: 16px;
+}
+
+.hips{
+	border: 5px solid black;
+	border-top: 5px solid black;
+	height: 470px;
+	width: 760px;
+	margin-left: 30px;
+	margin-top: 400px;
+}
+
+.block5{
+	float: right;
+	border: 1px solid black;
+	width: 64.5%;
+	display: block;
+	background: #282828;
+	padding-left: 2%;
+	text-align: left;
+	color: #ffffff;
+	font-family: 'Quicksand';
+	font-size: 18px;
+	border-left: 8px solid white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.fblock1{
+	border: 1px solid black;
+	width: 45%;
+	display: block;
+	background: #282828;
+	text-align: center;
+	color: #ffffff;
+	font-family: 'Alfa Slab One';
+	font-size: 50px;
+	border-left: 8px solid white;
+	border-right: 8px solid white;
+	margin-left: 27.5%;
+}
+
+span.stretch {
+	display: inline-block;
+    margin: 35px;
+    -webkit-transform: scale(1, 1);
+	-moz-transform: scale(1, 1);
+	-o-transform: scale(1, 1);
+	transform: scale(1, 1);
+      
+}
+
+.factblock{
+	border: 1px solid black;
+	height: 30%;
+	width: 70%;
+	display: block;
+	background: #282828;
+	text-align: left;
+	color: #ffffff;
+	font-family: 'Quicksand';
+	font-size: 20px;
+	border-left: 8px solid white;
+	border-right: 8px solid white;
+	margin-left: 14.5%;
+	padding-left: 5px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+
+.c1{
+	text-align: center;
+	width: 50%;
+	float: left;
+}
+
+.row1::after {
+    content:"";
+    clear: both;
+    display: table;
+}
+
+.body2{
+	background-color: #E9E9E9
+}
+
+.me{
+	height: 510 px;
+	width: 461px;
+	margin-left: 3%;
+	margin-top: 1%;
+	border: 5px solid black;
+}
+	
+.hello{
+	font-family: 'Alfa Slab One';
+	font-size: 60px;
+	margin-left: 3%;
+}
+
+.eymon{
+	font-family: 'Open Sans';
+	margin-left: 3%;
+	font-size: 25px;
